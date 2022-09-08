@@ -1,0 +1,4 @@
+WARN  2022-09-08T15:35:13.927 62921 log_path_init:96: Failed to create directory /Users/azarattum/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-09-08T15:37:40.328 62985 log_path_init:96: Failed to create directory /Users/azarattum/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-09-08T15:40:24.321 63059 log_path_init:96: Failed to create directory /Users/azarattum/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-09-08T15:42:46.898 63103 log_path_init:96: Failed to create directory /Users/azarattum/.cache/nvim for writing logs: Unknown system error 1
